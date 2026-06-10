@@ -115,7 +115,27 @@ button {
 .bottom-container{
     padding: 80px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     background-color: #E5E7EB;
+    
 }
+.quote-container{ 
+    max-width: 700px;
+    
+
+}
+
+ .quote-container .quote {
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    margin-bottom: 10px;
+
+}
+
+.quote-container .name {
+    text-align: end;
+    font-weight: 900;
+}
+
