@@ -139,3 +139,15 @@ button {
     font-weight: 900;
 }
 
+.sign-container {
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.sign-box {
+    background-color: #3882F6;
+    
+}
+}
